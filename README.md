@@ -1,6 +1,6 @@
 # Hi there, I'm Prabaharan_S🌟💻
 
-###gifs
+
 ![Funny Hamster](https://media.giphy.com/media/pm4VOSkAgkj3q/giphy.gif)
 
 ## 📖 About Me  
