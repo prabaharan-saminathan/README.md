@@ -57,9 +57,9 @@ I am a **Frontend Developer** & **Salesforce Platform Developer**, passionate ab
 
 ## 📬 Contact Me  
 
-- **Email**: [thejaashwin@gmail.com](mailto:thejaashwin@gmail.com) 📧  
-- **LinkedIn**: [Theja Ashwin](https://linkedin.com/in/theja-ashwin-632367289/) 🔗  
-- **Portfolio**: [My Portfolio](https://thejaashwin.me/) 🌐  
+- **Email**: [gopiguhans1999@gmail.com](mailto:gopiguhans1999@gmail.com) 📧  
+- **LinkedIn**: [Prabaharan_S](https://www.linkedin.com/in/prabaharan-s-764669267) 🔗  
+- **Portfolio**: [My Portfolio](https://inspiring-tapioca-70ef3f.netlify.app/) 🌐  
 
 ---
 
